@@ -22,6 +22,7 @@ To cover topics like Regression (linear regression), classifications (including 
 
 Topics include Calculus and Linear Algebra (eg. as applied to Principal Component Analysis)
 
+---
 
 ### Course Provider
 
